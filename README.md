@@ -1,6 +1,6 @@
 <div style="font-size:500%;font-weight:bold"> </div>
 
-# Accelerate data preparation using Amazon SageMaker Data Wrangler for Diabetic Patient Readmission Prediction
+# Accelerate data preparation with Amazon SageMaker Data Wrangler for Diabetic Patient Readmission Prediction
 
 Patient readmission to hospital after prior visits for the same disease results in additional burden on healthcare providers, health system and patients. Machine Learning (ML) models if built and trained properly can help understand reasons for readmission, and predict readmission accurately. ML could allow providers to create a better treatment plans and care which would translate to reduction of both cost and mental stress for patients. However, ML is a complex technique that has been limiting organizations that do not have the luxury to recruit a team of data engineers and scientists to build ML workloads. In this example, we show you how to build a machine learning model to predict diabetic patient readmission easily and quickly with a graphical interface from Amazon SageMaker Data Wrangler.
 
